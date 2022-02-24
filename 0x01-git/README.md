@@ -1,1 +1,1 @@
-my second commit is nice!
+my second commit is a nice one.
